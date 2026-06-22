@@ -1,11 +1,21 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/3o6ZtnJ1lYpCqiEeh2/giphy.gif" width="100" alt="conejo saltando"/>
-</h1>
-
-<h2 align="center">🐰 creador Luis González 🐰</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=128C7E&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+repo;Desarrollador+Web+desde+Managua;GitHub+Pages+%2B+Caf%C3%A9+%E2%98%95" alt="Typing SVG" />
-</p>
-
----
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=25D366&center=true&vCenter=true&multiline=true&width=550&height=120&lines=👀+creado+desde+Managua+Nicaragua+👀;🐰+creador+Luis+González+🐰;Regálame+una+⭐+si+te+mola" alt="Animado Nica" />
+  
+  <br>
+  
+  <pre>
+    (\__/)   👀
+    (•ㅅ•)  viendo tu visita
+    /   づ  desde Managua 🇳🇮
+  </pre>
+  
+  <br>
+  
+  <img src="https://img.shields.io/github/stars/luis-ro-cki/servidor?style=for-the-badge&color=25D366&label=Estrellitas" alt="stars"/>
+  
+  <br><br>
+  
+  <h3>💚 Código + Café Nica + Buena Vibra 💚</h3>
+  
+</div>
